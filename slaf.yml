@@ -1,0 +1,33 @@
+files:
+  include: "./src/components/Product/Product.sass"
+  ignore:
+    - node_modules/**
+syntax:
+  include:
+    - sass
+  ignore:
+    - scss
+resolvers:
+  property-sort-order: 1
+  attribute-quotes: 1
+  border-zero: 1
+  no-color-keywords: 0
+  no-css-comments: 0
+  no-important: 0
+  no-trailing-zero: 0
+  space-after-bang: 1
+  space-before-bang: 1
+  space-after-colon: 1
+  space-before-colon: 1
+  hex-length: 1
+  empty-line-between-blocks: 0
+  url-quotes: 1
+  zero-unit: 1
+  hex-notation: 0
+  indentation: 0
+  final-newline: 1
+options:
+  optOut: false
+
+
+# sass-lint-auto-fix -d -c slaf.yml команда фикс файла в дебаг моде с указанием конфига
