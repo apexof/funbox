@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/funbox/static/js/runtime~main.be8b6e86.js"
   },
   {
-    "revision": "9d74dfcb6d6eb97c8d15",
-    "url": "/funbox/static/js/main.9d74dfcb.chunk.js"
+    "revision": "5e0942cec2f62b563c1b",
+    "url": "/funbox/static/js/main.5e0942ce.chunk.js"
   },
   {
     "revision": "e9eba3f37137111846b8",
     "url": "/funbox/static/js/1.e9eba3f3.chunk.js"
   },
   {
-    "revision": "9d74dfcb6d6eb97c8d15",
-    "url": "/funbox/static/css/main.84f60420.chunk.css"
+    "revision": "5e0942cec2f62b563c1b",
+    "url": "/funbox/static/css/main.c15f7a80.chunk.css"
   },
   {
-    "revision": "e639b4b3486b49510eadd2bc5fa83d6a",
+    "revision": "1d0c30f302e0c0dddfb392761075d8c7",
     "url": "/funbox/index.html"
   }
 ];
