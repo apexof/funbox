@@ -55,14 +55,19 @@ class Product extends Component {
         default: 'selected_hover',
         default_hover: 'selected',
         selected: 'default_hover',
+        selected_hover: 'default_hover',
       },
       mouseenter: {
         default: 'default_hover',
+        default_hover: 'default_hover',
+        selected: 'selected',
         selected_hover: 'selected',
       },
       mouseleave: {
+        default: 'default',
         default_hover: 'default',
         selected: 'selected_hover',
+        selected_hover: 'selected_hover',
       },
     };
 
@@ -73,6 +78,6 @@ class Product extends Component {
     });
 
   };
-};
+}
 
 export default Product;
