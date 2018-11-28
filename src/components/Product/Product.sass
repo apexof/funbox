@@ -9,7 +9,7 @@ $product-disabled-color: #b3b3b3
 $product-item-bgc-color: #fff
 $product-item-border-width: 4px
 $product-item-height: 480px
-$product-cut-corner-height: 45px
+$product-cut-corner-height: 46px
 $product-bottom-block-height: $product-item-height - $product-cut-corner-height
 $product-cut-corner-bgc-height: $product-cut-corner-height - $product-item-border-width
 $product-item-border-radius: 9px
@@ -32,17 +32,17 @@ $product-item-border-radius: 9px
     &-bgc
       position: absolute
       right: 0
-      bottom: 0
+      bottom: -1px
       width: $product-cut-corner-bgc-height
-      height: $product-cut-corner-bgc-height
+      height: $product-cut-corner-bgc-height + 1
       background-color: $product-item-bgc-color
   &__note
     position: absolute
-    top: 0
     right: 0
+    bottom: -1px
     display: inline-block
     width: calc(100% - #{$product-cut-corner-height})
-    height: $product-cut-corner-height
+    height: $product-cut-corner-height + 1
     padding: 20px 0 0
     color: #666
     background-color: $product-item-bgc-color
