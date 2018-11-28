@@ -1,7 +1,7 @@
 {
   "main.css": "/funbox/static/css/main.c15f7a80.chunk.css",
-  "main.js": "/funbox/static/js/main.5e0942ce.chunk.js",
-  "main.js.map": "/funbox/static/js/main.5e0942ce.chunk.js.map",
+  "main.js": "/funbox/static/js/main.ffaf5174.chunk.js",
+  "main.js.map": "/funbox/static/js/main.ffaf5174.chunk.js.map",
   "static/js/1.e9eba3f3.chunk.js": "/funbox/static/js/1.e9eba3f3.chunk.js",
   "static/js/1.e9eba3f3.chunk.js.map": "/funbox/static/js/1.e9eba3f3.chunk.js.map",
   "runtime~main.js": "/funbox/static/js/runtime~main.be8b6e86.js",
@@ -10,6 +10,6 @@
   "static/media/Product.sass": "/funbox/static/media/cat.20fee7fb.png",
   "static/media/App.sass": "/funbox/static/media/bgc.1d2a2d2b.jpg",
   "index.html": "/funbox/index.html",
-  "precache-manifest.2c188e52f82aad101336815d79779f20.js": "/funbox/precache-manifest.2c188e52f82aad101336815d79779f20.js",
+  "precache-manifest.afd593637c7ea2da0a175840b46b37da.js": "/funbox/precache-manifest.afd593637c7ea2da0a175840b46b37da.js",
   "service-worker.js": "/funbox/service-worker.js"
 }
